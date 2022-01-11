@@ -11,5 +11,26 @@
     "luaide-lite.exclude": [
         "res/template",
         "test/xlua"
-    ]
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#1a3f2c",
+        "activityBar.activeBorder": "#8e61be",
+        "activityBar.background": "#1a3f2c",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#8e61be",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "sash.hoverBorder": "#1a3f2c",
+        "statusBar.background": "#0b1b13",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#1a3f2c",
+        "statusBarItem.remoteBackground": "#0b1b13",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "tab.activeBorder": "#1a3f2c",
+        "titleBar.activeBackground": "#0b1b13",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#0b1b1399",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#0b1b13"
 }

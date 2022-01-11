@@ -8,7 +8,7 @@ export function activate(context: vscode.ExtensionContext) {
 		if (ExtMgr.isLegacy) {
 			LegacyMgr.activate(context)
 		} else {
-			EmmyMgr.activate(context)
+			// EmmyMgr.activate(context)
 		}
 	}
 }
